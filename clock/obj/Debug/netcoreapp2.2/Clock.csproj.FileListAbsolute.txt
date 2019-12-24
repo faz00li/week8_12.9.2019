@@ -1,0 +1,11 @@
+/Users/root1/Desktop/week8_12.9.2019/clock/obj/Debug/netcoreapp2.2/Clock.csprojAssemblyReference.cache
+/Users/root1/Desktop/week8_12.9.2019/clock/obj/Debug/netcoreapp2.2/Clock.csproj.CoreCompileInputs.cache
+/Users/root1/Desktop/week8_12.9.2019/clock/obj/Debug/netcoreapp2.2/Clock.AssemblyInfoInputs.cache
+/Users/root1/Desktop/week8_12.9.2019/clock/obj/Debug/netcoreapp2.2/Clock.AssemblyInfo.cs
+/Users/root1/Desktop/week8_12.9.2019/clock/bin/Debug/netcoreapp2.2/Clock.deps.json
+/Users/root1/Desktop/week8_12.9.2019/clock/bin/Debug/netcoreapp2.2/Clock.runtimeconfig.json
+/Users/root1/Desktop/week8_12.9.2019/clock/bin/Debug/netcoreapp2.2/Clock.runtimeconfig.dev.json
+/Users/root1/Desktop/week8_12.9.2019/clock/bin/Debug/netcoreapp2.2/Clock.dll
+/Users/root1/Desktop/week8_12.9.2019/clock/bin/Debug/netcoreapp2.2/Clock.pdb
+/Users/root1/Desktop/week8_12.9.2019/clock/obj/Debug/netcoreapp2.2/Clock.dll
+/Users/root1/Desktop/week8_12.9.2019/clock/obj/Debug/netcoreapp2.2/Clock.pdb

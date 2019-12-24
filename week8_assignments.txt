@@ -1,0 +1,130 @@
+*****Queen Attack***** -> IN PROGRESS
+
+In chess, a queen can move horizontally, vertically, and diagonally, making it the most powerful piece on the board. If another piece is within its line of sight along these three lines, the queen may attack it.
+
+Create a console application where the user can enter X and Y coordinates for both a queen and another chess piece. The program should return whether the queen is capable of 'attacking' the other chess piece.
+
+Hints
+When the user submits coordinates, the program should create an instance of a Queen class, with properties for its X and Y coordinates.
+The Queen class should have a method that takes X and a Y coordinate as arguments, and returns true if the queen can attack the given space, and false if it cannot.
+A message should be displayed to inform the user of the results.
+
+*****Clock Angle***** -> DONE
+
+Time for something a little more complicated. Craft a console application that tells the user, given a certain time, the distance in degrees between the minute and hour hands on an analog clock.
+
+It should use a Clock class with a method that takes a time as input, and returns a number of degrees as output. For example, an input of 12:00 would return 0º and 6:00 would return 180º. Always return the smaller distance and be as precise as possible.
+
+*****Ping-Pong*****
+
+Ping-pong is a classic programming exercise that utilizes branching and looping. Here's how it works:
+
+A user enters a number and the application returns all numbers from 1 to the user input with the following changes:
+All numbers divisible by 3 are replaced by "ping".
+All numbers divisible by 5 are replaced by "pong"
+All numbers divisible by both 3 and 5 are replaced by "ping-pong".
+If the user enters 15, the program will return:
+
+1
+2
+"ping"
+4
+"pong"
+"ping"
+7
+8
+"ping"
+"pong"
+11
+"ping"
+13
+14
+"ping-pong"
+
+*****Car Dealership*****
+Follow along with last night's lessons to create the Car Dealership application. Then add the following features:
+
+Modify the Car class to include a message about the car and display it with the other info about the car.
+
+Add functionality to only show cars that are under a certain price and mileage. Modify the method in the application so the user can enter a number for each maximum value.
+
+If the user enters a number that is lower than the cheapest car, our console application won't return a response. Add an if statement to your Main() method so a message is displayed if no cars match the budget constraint.
+
+*****Triangle Tracker*****
+Create a Triangle Tracker console application similar to the Triangle Tracker website we made in Intro.
+
+Make a console app with a Triangle class.
+
+Use Console.ReadLine() to gather three numbers from the user.
+
+Create a method in the Triangle class that takes these 3 numbers and returns what type of triangle (if any) they form:
+
+Equilateral: All sides are equal;
+Isosceles: Exactly 2 sides are equal;
+Scalene: No sides are equal.
+Not all combinations make valid triangles. If any side is longer than the other two sides combined, the lengths cannot form a triangle. For example, 2, 2, and 8 does not make a triangle. Make sure to account for this.
+
+*****Palindromes*****
+A palindrome is any word, phrase, number, or other sequence of characters that reads the same both backward or forward.
+
+Create a console application that includes a method to identify whether a word is a palindrome. It should return true if the user-provided word is a palindrome and false if it is not.
+
+Here are several recommended approaches:
+
+Simpler: There is a method Array.Reverse(). Check it out in the REPL to see what it does.
+
+More Challenging: Create the method without using the Array.Reverse() method. If the simpler way of doing this isn't a challenge, we recommend trying this out!
+
+Bonus Points: Make a method that checks a string of words and also an integer. For example: "Hello olleH" is a palindrome by our definition. An integer palindrome would be: 101.
+
+*****Higher/Lower Game*****
+
+Make a console app that 'guesses' what number a user is thinking of.
+
+The app should ask the user to pick a number between 1-100.
+The app should then 'guess' a number and ask whether the user's number is higher or lower than the 'guessed' number.
+If the user says the number is lower, the program should guess a lower number. If the user says the number is higher, the program should guess a higher number.
+The game should go on until the program guesses the correct number.
+For example, the interaction between the user and the program could go like this:
+
+Program: Would you like to play the higher/lower game? (Yes/No)
+User: Yes.
+Program: Okay.
+Program: Is your number higher or lower than 50? (Higher/Lower/Correct)
+User: Lower
+Program: Is your number higher or lower than 25? (Higher/Lower/Correct)
+User: Higher
+Program: Is your number higher or lower than 33? (Higher/Lower/Correct)
+User: Higher
+Program: Is your number higher or lower than 42? (Higher/Lower/Correct)
+User: Higher
+Program: Is your number higher or lower than 46? (Higher/Lower/Correct)
+User: Lower
+Program: Is your number higher or lower than 44? (Higher/Lower/Correct)
+User: Correct
+Program: Great! I guessed your number. Would you like to play again? (Yes/No)
+User: No
+-Program Quits-
+Alter the app so the computer 'picks' a random number and asks the user to guess it using the same higher/lower rules. The user should be able to pick which version of the game they would like to play. Check out the MSDN documentation for the Random class and this Stack Overflow post for help generating random numbers.
+
+*****Wildlife Park*****
+
+Create a wildlife park tracker where a manager can add and track animals in the console. Add all functionality listed above in Application Refactor.
+
+*****Prime Sifting*****
+
+Given a number, write a method that returns all of the prime numbers less than that number.
+
+This is a tricky problem and you should use the Sieve of Eratosthenes to solve it. Here's how the Sieve of Eratosthenes works to find a number up to a given number:
+
+Create a list of numbers from 2 through n: 2, 3, 4, ..., number.
+Initially, let prime equal 2, the first prime number.
+Starting from prime, remove all multiples of prime from the list.
+Increment prime by 1.
+When you reach number, all the remaining numbers in the list are primes.
+You also might find this video helpful in explaining the Sieve.
+
+*****Grow Your Own Plant*****
+Build a console application to grow your own plant. Start with a Plant class and add methods for allowing the plant to grow. For example, there could be methods for Water(), Feed(), GiveSunshine() and so on. Each round, the plant should grow a certain amount (or fail to grow) based on the actions the user takes.
+
+For an additional challenge, add methods for things that will cause trouble for your plant. For instance, you could include methods like Windstorm(), AphidAttack(), SlugBite(), and so on.

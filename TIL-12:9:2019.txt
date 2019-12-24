@@ -1,0 +1,43 @@
+
+
+searching google and specifing site:
+site: https://docs.microsoft.com/en-us/dotnet/csharp/ search term(s) here
+
+SomeFileName.csproj
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+    </PropertyGroup>
+
+</Project>
+
+SomeFileName.cs
+using System;
+
+class Program
+{
+  static void Main()
+  {
+    // program code goes here
+  }
+}
+
+Running Programs
+We run a program with the following two steps:
+
+Compiling: In the project directory, run > dotnet build. FileName.cs should be the name of the file containing program code. This creates an .exe file.
+Executing: After compiling, run the following to launch the .dll file: > dotnet run
+
+
+*****GIT*****
+$ git log --oneline
+This will list all of our local Git commits. Locate the number of the commit to revert back to and save it.
+
+Then, run the following command, providing the specific commit number:
+
+$ git reset <commit-number>
+For example, if a commit had the identifier 56e05fced, we would revert back to that point in time with the following command:
+
+$ git reset 56e05fced

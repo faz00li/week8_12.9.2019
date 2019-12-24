@@ -1,0 +1,11 @@
+/Users/root1/Desktop/week8_12.9.2019/dealership/obj/Debug/netcoreapp2.2/Car.csprojAssemblyReference.cache
+/Users/root1/Desktop/week8_12.9.2019/dealership/obj/Debug/netcoreapp2.2/Car.csproj.CoreCompileInputs.cache
+/Users/root1/Desktop/week8_12.9.2019/dealership/obj/Debug/netcoreapp2.2/Car.AssemblyInfoInputs.cache
+/Users/root1/Desktop/week8_12.9.2019/dealership/obj/Debug/netcoreapp2.2/Car.AssemblyInfo.cs
+/Users/root1/Desktop/week8_12.9.2019/dealership/bin/Debug/netcoreapp2.2/Car.deps.json
+/Users/root1/Desktop/week8_12.9.2019/dealership/bin/Debug/netcoreapp2.2/Car.runtimeconfig.json
+/Users/root1/Desktop/week8_12.9.2019/dealership/bin/Debug/netcoreapp2.2/Car.runtimeconfig.dev.json
+/Users/root1/Desktop/week8_12.9.2019/dealership/bin/Debug/netcoreapp2.2/Car.dll
+/Users/root1/Desktop/week8_12.9.2019/dealership/bin/Debug/netcoreapp2.2/Car.pdb
+/Users/root1/Desktop/week8_12.9.2019/dealership/obj/Debug/netcoreapp2.2/Car.dll
+/Users/root1/Desktop/week8_12.9.2019/dealership/obj/Debug/netcoreapp2.2/Car.pdb

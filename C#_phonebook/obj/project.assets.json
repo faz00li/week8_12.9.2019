@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/root1/.nuget/packages/": {},
+    "/Users/eduardraskin/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/root1/Desktop/meal-time/MealTime.csproj",
+      "projectUniqueName": "/Users/eduardraskin/Desktop/week8_12.9.2019/C#_phonebook/MealTime.csproj",
       "projectName": "MealTime",
-      "projectPath": "/Users/root1/Desktop/meal-time/MealTime.csproj",
-      "packagesPath": "/Users/root1/.nuget/packages/",
-      "outputPath": "/Users/root1/Desktop/meal-time/obj/",
+      "projectPath": "/Users/eduardraskin/Desktop/week8_12.9.2019/C#_phonebook/MealTime.csproj",
+      "packagesPath": "/Users/eduardraskin/.nuget/packages/",
+      "outputPath": "/Users/eduardraskin/Desktop/week8_12.9.2019/C#_phonebook/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/root1/.nuget/NuGet/NuGet.Config"
+        "/Users/eduardraskin/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

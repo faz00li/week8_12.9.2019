@@ -9,3 +9,14 @@
 /Users/root1/Desktop/meal-time/obj/Debug/netcoreapp2.2/MealTime.AssemblyInfo.cs
 /Users/root1/Desktop/meal-time/obj/Debug/netcoreapp2.2/MealTime.dll
 /Users/root1/Desktop/meal-time/obj/Debug/netcoreapp2.2/MealTime.pdb
+/Users/eduardraskin/Desktop/week8_12.9.2019/C#_phonebook/bin/Debug/netcoreapp2.2/MealTime.deps.json
+/Users/eduardraskin/Desktop/week8_12.9.2019/C#_phonebook/bin/Debug/netcoreapp2.2/MealTime.runtimeconfig.json
+/Users/eduardraskin/Desktop/week8_12.9.2019/C#_phonebook/bin/Debug/netcoreapp2.2/MealTime.runtimeconfig.dev.json
+/Users/eduardraskin/Desktop/week8_12.9.2019/C#_phonebook/bin/Debug/netcoreapp2.2/MealTime.dll
+/Users/eduardraskin/Desktop/week8_12.9.2019/C#_phonebook/bin/Debug/netcoreapp2.2/MealTime.pdb
+/Users/eduardraskin/Desktop/week8_12.9.2019/C#_phonebook/obj/Debug/netcoreapp2.2/MealTime.csprojAssemblyReference.cache
+/Users/eduardraskin/Desktop/week8_12.9.2019/C#_phonebook/obj/Debug/netcoreapp2.2/MealTime.csproj.CoreCompileInputs.cache
+/Users/eduardraskin/Desktop/week8_12.9.2019/C#_phonebook/obj/Debug/netcoreapp2.2/MealTime.AssemblyInfoInputs.cache
+/Users/eduardraskin/Desktop/week8_12.9.2019/C#_phonebook/obj/Debug/netcoreapp2.2/MealTime.AssemblyInfo.cs
+/Users/eduardraskin/Desktop/week8_12.9.2019/C#_phonebook/obj/Debug/netcoreapp2.2/MealTime.dll
+/Users/eduardraskin/Desktop/week8_12.9.2019/C#_phonebook/obj/Debug/netcoreapp2.2/MealTime.pdb
